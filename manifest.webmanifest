@@ -1,0 +1,17 @@
+{
+  "name": "カモクマ商店街 ミニゲーム横丁",
+  "short_name": "カモクマ",
+  "description": "カモクマ商店街のミニゲーム4本入り。1台のスマホをみんなで囲んで遊べる。",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#27315c",
+  "theme_color": "#27315c",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "./icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
